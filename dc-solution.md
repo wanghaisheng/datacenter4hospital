@@ -92,3 +92,42 @@ SAN 存储池
 
 ### 公有云服务商
 
+
+
+
+
+#### 数据中心存储设备自购自运维方案
+EMC-CX480  11*200GB SSD、60*400GB SAS 450GB SAS 1.5K*60块、200GB SSD*20块    
+EMC-Isilon Isilon S200-2U-Dual-24GB-4x1GE-14TB 
+EMC-Isilon Isilon NL400-4U-Dual-12GB-4x1GE-36TB
+EMC XtremIO
+EMC DD2500 
+磁带库 DAT160 TYPE 7226-1U3
+
+#### 数据中心存储设备自购运维托管方案
+
+#### 数据中心存储公有云托管方案
+
+#### 数据中心服务器设备自购自运维方案
+联想X3750M4
+IBM P570 9117
+IBM P780 9179
+#### 数据中心服务器设备自购运维托管方案
+
+#### 数据中心服务器公有云托管方案
+
+
+光纤交换机
+
+EMC DS300B
+
+思科交换机 N2K48口 CISCO NEXUS 2248TP 1GE FABRIC EXTENDER
+
+
+### 虚拟化套件
+
+虚拟化管理中心软件  VMwarevCenter 5.5标准版
+服务器虚拟化软件 VMwarevSphere 5.5企业版增强版 
+虚拟化性能监控和运维软件 VMwarevCenteroperation manager5.8 高级版
+桌面虚拟化软件 Horizon view（10 Pack）
+ 
