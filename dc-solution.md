@@ -105,6 +105,14 @@ EMC-Isilon Isilon S200-2U-Dual-24GB-4x1GE-14TB
 EMC-Isilon Isilon NL400-4U-Dual-12GB-4x1GE-36TB
 EMC XtremIO
 EMC DD2500 
+
+磁盘阵列存储 DELL 2U MD3800F
+
+宁夏医科大学总医院
+
+UniverFlash ASA6200 中国 紫光西部数据 345000
+
+
 磁带库 DAT160 TYPE 7226-1U3
 
 #### 数据中心存储设备自购运维托管方案
@@ -115,6 +123,9 @@ EMC DD2500
 联想X3750M4
 IBM P570 9117
 IBM P780 9179
+
+DELL 2U机架式R730
+
 #### 数据中心服务器设备自购运维托管方案
 
 #### 数据中心服务器公有云托管方案
@@ -126,6 +137,13 @@ EMC DS300B
 
 思科交换机 N2K48口 CISCO NEXUS 2248TP 1GE FABRIC EXTENDER
 
+
+存储交换机：
+H3C SN3000B  中国  新华三
+
+
+防火墙
+华为，企业级VPN防火墙，USG6101
 
 ### 虚拟化套件
 
